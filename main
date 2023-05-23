@@ -1,0 +1,5 @@
+arr = [7, 3, 0, -5, 1, 2, 8, 4]
+
+for i in range(len(arr)):
+    arr[i] += i
+print(arr)
